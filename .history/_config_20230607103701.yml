@@ -31,7 +31,7 @@ permalink: /:title/
 disqus:
   shortname: github # enter this from your disqus account
   # categories: [blog, project] # only show disqus for posts that have these categories
-  categories:  # only show disqus for posts that have these categories
+  categories: [] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
 # facebook: myfacebook

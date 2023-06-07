@@ -1,0 +1,32 @@
+---
+title: "选调生分享"
+layout: post
+date: 2023-06-06 15:48
+image: /assets/images/markdown.jpg
+headerImage: false
+tag:
+- 分享
+- 学习
+- 选调生
+category: blog
+author: 冯贤兵
+description: Markdown summary with different options
+---
+
+
+## 何为选调
+
+选调生是响应国家号召，各省党委组织部门有计划地从高等院校选调品学兼优的应届大学本科及其以上毕业生到基层工作，作为党政领导干部后备人选和县级以上党政机关高素质的工作人员人选进行重点培养的群体的简称。
+
+---
+
+## 如何选拔
+
+---
+
+## 考试准备
+
+---
+
+## 日常分享
+

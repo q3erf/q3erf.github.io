@@ -9,7 +9,7 @@ tag:
 - components
 - extra
 category: blog
-author: 冯贤兵
+author: jamesfoster
 description: Markdown summary with different options
 ---
 

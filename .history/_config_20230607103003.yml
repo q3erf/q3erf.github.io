@@ -30,8 +30,7 @@ permalink: /:title/
 # if you don't want comments in your posts, leave categories empty
 disqus:
   shortname: github # enter this from your disqus account
-  # categories: [blog, project] # only show disqus for posts that have these categories
-  categories:  # only show disqus for posts that have these categories
+  categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
 # facebook: myfacebook
@@ -45,10 +44,10 @@ email: feng1451159047@gmail.com
 authors:
   johndoe:
     name: 冯贤兵
-    bio: 一个以奉献为乐的探索者
+    bio: A Man who travels the world eating noodles
     external-image: false
     picture: assets/images/profile.jpg
-    # twitter: 
+    twitter: johndoe
  
 
 # do you want a larger site? change the option below

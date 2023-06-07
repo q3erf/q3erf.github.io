@@ -1,7 +1,7 @@
 ---
 title: "Markdown语法的额外使用"
 layout: post
-date: 2023-05-24 22:48
+date: 2016-02-24 22:48
 image: /assets/images/markdown.jpg
 headerImage: false
 tag:
@@ -9,7 +9,7 @@ tag:
 - components
 - extra
 category: blog
-author: 冯贤兵
+author: jamesfoster
 description: Markdown summary with different options
 ---
 

@@ -1,7 +1,7 @@
 ---
-title: "Markdown语法的额外使用"
+title: "Markdown Extra Components"
 layout: post
-date: 2023-05-24 22:48
+date: 2016-02-24 22:48
 image: /assets/images/markdown.jpg
 headerImage: false
 tag:
@@ -9,29 +9,30 @@ tag:
 - components
 - extra
 category: blog
-author: 冯贤兵
+author: jamesfoster
 description: Markdown summary with different options
 ---
 
-## 概览:
-Markdown语法的额外使用
+## Summary:
+
+You can pick as item to see how to apply in markdown.
 
 #### Especial Elements
-- [强调段落](#强调段落)
-- [左右分布](#左右分布)
+- [Evidence](#evidence)
+- [Side-by-Side](#side-by-side)
 - [Star](#star)
-- [分割符](#分割符)
-- [防剧透模块](#防剧透模块)
+- [Especial Breaker](#especial-breaker)
+- [Spoiler](#spoiler)
 
 #### External Elements
-- [代码展示](#代码展示)
-- [在线代码编辑](#在线代码编辑)
-- [幻灯片](#幻灯片)
-- [视频](#视频)
+- [Gist](#gist)
+- [Codepen](#codepen)
+- [Slideshare](#slideshare)
+- [Videos](#videos)
 
 ---
 
-## 强调段落
+## Evidence
 
 You can try the evidence!
 
@@ -43,7 +44,7 @@ You can try the evidence!
 
 ---
 
-## 左右分布
+## Side-by-side
 
 Like the [Medium](https://medium.com/) component.
 
@@ -111,7 +112,7 @@ star: true
 
 ---
 
-## 分割符
+## Especial Breaker
 
 You can add a especial *hr* to your text.
 
@@ -123,7 +124,7 @@ You can add a especial *hr* to your text.
 
 ---
 
-## 防剧透模块
+## Spoiler
 
 You can add an especial hidden content that appears on hover.
 
@@ -135,7 +136,7 @@ You can add an especial hidden content that appears on hover.
 
 ---
 
-## 代码展示
+## Gist
 
 You can add Gists from github.
 
@@ -147,7 +148,7 @@ You can add Gists from github.
 
 ---
 
-## 在线代码编辑
+## Codepen
 
 You can add Pens from Codepen.
 
@@ -163,7 +164,7 @@ You can add Pens from Codepen.
 
 ---
 
-## 幻灯片
+## Slideshare
 
 Add your presentations here!
 
@@ -175,7 +176,7 @@ Add your presentations here!
 
 ---
 
-## 视频
+## Videos
 
 Do you want some videos? Youtube, Vimeo or Vevo? Copy the embed code and paste on your post!
 
