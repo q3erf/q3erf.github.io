@@ -1,0 +1,22 @@
+# Ignore .history 
+.history
+
+# Ignore .DS_Store on Mac 
+.DS_Store  
+
+# Ignore build folders
+build/
+
+# Ignore compiled files
+*.com
+*.class
+*.dll
+*.exe 
+*.o
+*.so
+
+# Ignore logs 
+*.log
+
+# Ignore database 
+database.db
