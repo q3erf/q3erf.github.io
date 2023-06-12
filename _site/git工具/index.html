@@ -9,24 +9,24 @@
     <meta name=author content="冯贤兵">
 
     <!-- Begin Jekyll SEO tag v2.8.0 -->
-<title>选调生分享 | 冯贤兵</title>
+<title>git技巧总结 | 冯贤兵</title>
 <meta name="generator" content="Jekyll v3.9.3" />
-<meta property="og:title" content="选调生分享" />
+<meta property="og:title" content="git技巧总结" />
 <meta name="author" content="冯贤兵" />
 <meta property="og:locale" content="en_US" />
-<meta name="description" content="Markdown summary with different options" />
-<meta property="og:description" content="Markdown summary with different options" />
-<link rel="canonical" href="http://localhost:4000/xds-share-pku/" />
-<meta property="og:url" content="http://localhost:4000/xds-share-pku/" />
+<meta name="description" content="Git常用技巧总结" />
+<meta property="og:description" content="Git常用技巧总结" />
+<link rel="canonical" href="http://localhost:4000/git%E5%B7%A5%E5%85%B7/" />
+<meta property="og:url" content="http://localhost:4000/git%E5%B7%A5%E5%85%B7/" />
 <meta property="og:site_name" content="冯贤兵" />
 <meta property="og:image" content="http://localhost:4000/assets/images/markdown.jpg" />
 <meta property="og:type" content="article" />
-<meta property="article:published_time" content="2023-06-06T15:48:00+08:00" />
+<meta property="article:published_time" content="2023-06-12T15:48:00+08:00" />
 <meta name="twitter:card" content="summary_large_image" />
 <meta property="twitter:image" content="http://localhost:4000/assets/images/markdown.jpg" />
-<meta property="twitter:title" content="选调生分享" />
+<meta property="twitter:title" content="git技巧总结" />
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"冯贤兵"},"dateModified":"2023-06-06T15:48:00+08:00","datePublished":"2023-06-06T15:48:00+08:00","description":"Markdown summary with different options","headline":"选调生分享","image":"http://localhost:4000/assets/images/markdown.jpg","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/xds-share-pku/"},"url":"http://localhost:4000/xds-share-pku/"}</script>
+{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"冯贤兵"},"dateModified":"2023-06-12T15:48:00+08:00","datePublished":"2023-06-12T15:48:00+08:00","description":"Git常用技巧总结","headline":"git技巧总结","image":"http://localhost:4000/assets/images/markdown.jpg","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/git%E5%B7%A5%E5%85%B7/"},"url":"http://localhost:4000/git%E5%B7%A5%E5%85%B7/"}</script>
 <!-- End Jekyll SEO tag -->
 
 
@@ -52,7 +52,7 @@
 <meta name="msapplication-square310x310logo" content="mstile-310x310.png" />
 
 
-    <link rel="canonical" href="http://localhost:4000/xds-share-pku/">
+    <link rel="canonical" href="http://localhost:4000/git%E5%B7%A5%E5%85%B7/">
     <link rel="alternate" type="application/rss+xml" title="冯贤兵" href="http://localhost:4000/feed.xml" />
 
     <script src="https://kit.fontawesome.com/d9b09040a7.js" crossorigin="anonymous"></script>
@@ -799,10 +799,10 @@ pre { box-sizing: border-box; margin: 0 0 1.75em 0; width: 100%; padding: 5px 10
 
 
 
-<h1 class="title">选调生分享</h1>
+<h1 class="title">git技巧总结</h1>
 
 <span class="date">
-    <time datetime="06-06-2023">Tuesday. June 06, 2023</time>
+    <time datetime="12-06-2023">Monday. June 12, 2023</time>
      - <span class="reading-time" title="Estimated read time">
     
 
@@ -816,44 +816,32 @@ pre { box-sizing: border-box; margin: 0 0 1.75em 0; width: 100%; padding: 5px 10
 
     <div class="post-tags">
         
-            <a class="item" href="http://localhost:4000/tags/#分享">分享</a>
+            <a class="item" href="http://localhost:4000/tags/#git">Git</a>
         
-            <a class="item" href="http://localhost:4000/tags/#学习">学习</a>
-        
-            <a class="item" href="http://localhost:4000/tags/#选调生">选调生</a>
+            <a class="item" href="http://localhost:4000/tags/#技巧">技巧</a>
         
     </div>
 
 
-<h2 id="何为选调">何为选调</h2>
+<h2 id="git与本地ssh-key的建立">Git与本地SSH key的建立</h2>
 
-<p>选调生是响应国家号召，各省党委组织部门有计划地从高等院校选调品学兼优的应届大学本科及其以上毕业生到基层工作，作为党政领导干部后备人选和县级以上党政机关高素质的工作人员人选进行重点培养的群体的简称。</p>
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c"># 生成公钥私钥对</span>
+ssh-keygen <span class="nt">-t</span> ed25519 <span class="nt">-C</span> <span class="s2">"example@qq.com"</span>
 
-<hr />
+<span class="c"># 复制公钥到剪贴板</span>
+<span class="nb">cat</span> ~/.ssh/id_ed25519.pub
 
-<h2 id="如何选拔">如何选拔</h2>
-<h3 id="报名">报名</h3>
-<h3 id="笔试">笔试</h3>
-<h3 id="面试">面试</h3>
-<h3 id="体检">体检</h3>
-<h3 id="考察">考察</h3>
-<h3 id="公示">公示</h3>
-<h3 id="签约">签约</h3>
-<hr />
-
-<h2 id="准备">准备</h2>
-
-<hr />
-
-<h2 id="日常分享">日常分享</h2>
-
+<span class="c"># 登录Github网页版，在SSH and GPG keys中新增key</span>
+</code></pre></div></div>
 
 
 
     <div class="blog-navigation">
         
-            <a class="prev" href="http://localhost:4000/markdown-extra-components/">&laquo; Markdown语法的额外使用</a>
+            <a class="prev" href="http://localhost:4000/%E9%80%89%E8%B0%83%E7%94%9F%E5%88%86%E4%BA%AB/">&laquo; 选调生分享</a>
         
+        
+            <a class="next" href="http://localhost:4000/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/">毛选 &raquo;</a>
         
     </div>
 
@@ -869,19 +857,16 @@ pre { box-sizing: border-box; margin: 0 0 1.75em 0; width: 100%; padding: 5px 10
             
                 
             
-                
-            
+        
+    
+        
         
             
                 
             
                 
             
-                
-            
         
-            
-                
             
                 
             
@@ -896,19 +881,13 @@ pre { box-sizing: border-box; margin: 0 0 1.75em 0; width: 100%; padding: 5px 10
             
                 
             
-                
-            
         
             
                 
             
                 
             
-                
-            
         
-            
-                
             
                 
             
@@ -918,6 +897,24 @@ pre { box-sizing: border-box; margin: 0 0 1.75em 0; width: 100%; padding: 5px 10
     
         
         
+            
+                
+            
+                
+            
+        
+            
+                
+            
+                
+            
+        
+            
+                
+            
+                
+            
+        
     
         
         
@@ -926,10 +923,52 @@ pre { box-sizing: border-box; margin: 0 0 1.75em 0; width: 100%; padding: 5px 10
             
                 
             
+        
+            
+                
+            
                 
             
         
     
+        
+        
+            
+                
+            
+                
+            
+        
+    
+        
+        
+            
+                
+            
+                
+            
+        
+            
+                
+            
+                
+                    
+                    <h4>Related Posts</h4>
+                    <ul>
+                    
+                    <li class="relatedPost">
+                        <a href="http://localhost:4000/%E5%8D%9A%E5%AE%A2%E5%86%99%E4%BD%9C/">如何写作博客
+                        
+                        </a>
+                    </li>
+                    
+                    
+                
+            
+        
+    
+    
+        </ul>
     
 </div>
 

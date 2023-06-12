@@ -1,0 +1,24 @@
+---
+title: "毛选"
+layout: post
+date: 2023-06-12 18:57
+image: /assets/images/markdown.jpg
+headerImage: false
+tag:
+- 记录
+category: blog
+author: 冯贤兵
+description: 毛选读书笔记
+---
+
+## Git与本地SSH key的建立
+
+```bash
+# 生成公钥私钥对
+ssh-keygen -t ed25519 -C "example@qq.com"
+
+# 复制公钥到剪贴板
+cat ~/.ssh/id_ed25519.pub
+
+# 登录Github网页版，在SSH and GPG keys中新增key
+```

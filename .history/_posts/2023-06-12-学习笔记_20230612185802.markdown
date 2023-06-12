@@ -1,0 +1,14 @@
+---
+title: "毛选"
+layout: post
+date: 2023-06-12 18:57
+image: /assets/images/markdown.jpg
+headerImage: false
+tag:
+- 记录
+category: blog
+author: 冯贤兵
+description: 毛选读书笔记
+---
+
+## 毛泽东选集

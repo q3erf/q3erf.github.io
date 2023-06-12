@@ -1,0 +1,15 @@
+---
+title: "git技巧总结"
+layout: post
+date: 2015-06-12 19:48
+image: /assets/images/markdown.jpg
+headerImage: false
+tag:
+- 博客
+- 技巧
+category: blog
+author: 冯贤兵
+description: 如何使用本网站模板写作博客
+---
+
+---

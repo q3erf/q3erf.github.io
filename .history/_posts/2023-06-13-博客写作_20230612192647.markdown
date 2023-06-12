@@ -1,0 +1,52 @@
+---
+title: "如何写作博客"
+layout: post
+date: 2015-06-12 19:48
+image: /assets/images/markdown.jpg
+headerImage: false
+tag:
+- 博客
+- 技巧
+category: blog
+author: 冯贤兵
+description: 如何使用本网站模板写作博客
+---
+
+---
+## 新建markdown文档
+
+在/_posts目录下新建xxxx-xx-xx-name.markdown的文件。
+
+其中name可以是中文，代表了网站中的后缀名。
+
+时间必须正确，不然无法识别。
+
+---
+
+## 文档开头
+使用如下代码开头
+```bash
+
+---
+title: "Markdown Common Elements"
+layout: post
+date: 2016-02-24 22:44
+image: /assets/images/markdown.jpg
+headerImage: true
+tag:
+- markdown
+- elements
+star: false
+category: blog
+author: 冯贤兵
+description: Markdown summary with different options
+---
+```
+---
+
+## 图片
+{% highlight raw %}
+![Markdowm Image][1]
+[1]: https://q3erf.github.io/assets/images/james.jpg
+...
+{% endhighlight %}
