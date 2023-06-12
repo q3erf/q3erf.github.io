@@ -1,0 +1,22 @@
+---
+title: "git技巧总结"
+layout: post
+date: 2023-06-12 15:48
+image: /assets/images/markdown.jpg
+headerImage: false
+tag:
+- Git
+- 技巧
+category: blog
+author: 冯贤兵
+description: Git常用技巧总结
+---
+
+## Git与本地SSH key的建立
+
+```bash
+生成公钥私钥对
+ssh-keygen -t ed25519 -C "example@qq.com"
+
+
+```

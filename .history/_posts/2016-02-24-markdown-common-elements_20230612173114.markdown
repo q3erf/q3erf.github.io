@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "Markdown Common Elements"
 layout: post
 date: 2016-02-24 22:44
@@ -200,4 +200,4 @@ $(window).scroll(function() {
 [2]: https://www.fileformat.info/info/unicode/char/2163/index.htm
 [3]: https://daringfireball.net/projects/markdown/basics
 [4]: https://daringfireball.net/projects/markdown/syntax
-[5]: https://kune.fr/wp-content/uploads/2013/10/ghost-blog.jpg
+[5]: https://kune.fr/wp-content/uploads/2013/10/ghost-blog.jpg -->
