@@ -11,6 +11,7 @@ category: blog
 author: 冯贤兵
 description: vim常用技巧总结
 ---
+
 ## vim多行插入
 ### 行首插入
 ```
@@ -36,10 +37,19 @@ ctrl+v
 j or k
 
 # 跳到行尾
-shift + 6 即 $
+shift + 4 即 $
 
 # 插入
 大写A
 ```
 
-## Vim
+## vim快捷键
+
+CTRL+q/CTRL+v 可视块模式
+
+
+
+
+
+
+
