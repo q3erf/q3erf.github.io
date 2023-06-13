@@ -1,0 +1,45 @@
+---
+title: "vim技巧总结"
+layout: post
+date: 2023-06-13 13:44
+image: /assets/images/markdown.jpg
+headerImage: false
+tag:
+- vim
+- 技巧
+category: blog
+author: 冯贤兵
+description: vim常用技巧总结
+---
+## vim多行插入
+### 行首插入
+```
+# 进入视图模式
+ctrl+v
+
+# 选择需要插入的多行
+j or k
+
+# 跳到行首
+shift + 6 即 ^
+
+# 插入
+大写I
+```
+
+### 行尾插入
+```
+# 进入视图模式
+ctrl+v
+
+# 选择需要插入的多行
+j or k
+
+# 跳到行尾
+shift + 6 即 $
+
+# 插入
+大写A
+```
+
+## Vim
