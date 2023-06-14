@@ -54,3 +54,11 @@ description: Markdown summary with different options
 ...
 ```
 
+
+## 上传
+```bash
+git add .
+git commit -m "update"
+git push
+# 需要60s左右完成更新
+```
