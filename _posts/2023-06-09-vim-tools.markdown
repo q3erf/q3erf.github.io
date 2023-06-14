@@ -55,3 +55,23 @@ CTRL+q/CTRL+v 可视块模式
 按冒号：进入命令模式
 输入!tac，回车，完成反序
 ```
+
+
+## vim 解决中英文切换问题
+
+### Windows版本
+1. 下载im-select
+https://github.com/daipeihust/im-select
+
+2. 将im-select.exe添加到环境变量path中
+如D:\software
+
+3. 在VScode中setting.json添加
+
+    "vim.autoSwitchInputMethod.enable": true,
+    "vim.autoSwitchInputMethod.defaultIM": "1033",
+    "vim.autoSwitchInputMethod.obtainIMCmd": "D:\\\software\\\im-select.exe", 
+    "vim.autoSwitchInputMethod.switchIMCmd": "D:\\\software\\\im-select.exe {im}",
+
+> 作者：silaoA 
+> 链接：https://www.zhihu.com/question/303850876/answer/2263584870
