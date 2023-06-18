@@ -33,7 +33,7 @@ Markdown can also contain images. I'll need to add something here sometime.
 <figcaption class="caption">Photo by John Doe</figcaption>
 {% endhighlight %}
 
-![Markdowm Image][5]
+![Markdowm Image][6]
 <figcaption class="caption">Photo by John Doe</figcaption>
 
 
@@ -42,4 +42,4 @@ Markdown can also contain images. I'll need to add something here sometime.
 [3]: https://daringfireball.net/projects/markdown/basics
 [4]: https://daringfireball.net/projects/markdown/syntax
 [5]: https://kune.fr/wp-content/uploads/2013/10/ghost-blog.jpg
-[6]: https://q3erf.github.io/assets/images/james.jpg
+[6]: https://q3erf.github.io/assets/images/xd_time.png

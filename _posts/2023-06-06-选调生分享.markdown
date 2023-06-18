@@ -234,4 +234,4 @@ description: Markdown summary with different options
 <!-- ## 日常分享 -->
 
 
-[1]: https://q3erf.github.io/assets/images/xd_time.jpg
+[1]: https://q3erf.github.io/assets/images/xd_time.png
