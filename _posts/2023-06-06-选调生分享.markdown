@@ -10,7 +10,7 @@ tag:
 - 选调生
 category: blog
 author: 冯贤兵
-description: Markdown summary with different options
+description: 选调生整体流程介绍
 ---
 
 
@@ -38,7 +38,7 @@ description: Markdown summary with different options
     - 按照中央公务员官网岗位需求，填写报名表并进行报名
     - 竞争很激烈，岗位多，限制多，特别是很多岗位限制2年基层工作经验，对应届生并不友好。
 
-当通过以上任意方式完成报名后，后续流程环节均与普通国考一致。
+**当通过以上任意方式完成报名后，后续流程环节均与普通国考一致。**
 
 ---
 
@@ -49,7 +49,7 @@ description: Markdown summary with different options
 
 异地不选调，选调不异地。如果自己心中没有明确的目标，回家是一个比较好的选择，各省对当地生源都有或多或少的政策倾斜。
 
-如果选调的结果不好，也不要灰心，个人努力已经尽力的情况下，能否入选更多的是靠的教育背景、学工经历、籍贯、获奖等，这些都非一日之寒就能够得到。所以对于有志于服务地方发展的同学来说，要早做打算，积累自身实力。
+如果选调的结果不好，也不要灰心，个人努力已经尽力的情况下，能否入选更多的是靠的教育背景、学工经历、籍贯、获奖等，这些都非一日之寒就能够得到。所以对于有志于服务地方发展的同学来说，**要早做打算，积累自身实力**。
 
 
 
@@ -73,7 +73,7 @@ description: Markdown summary with different options
     * 三好学生奖励
     * 国奖
 
-以上条件最低要求一项，越多越好
+以上条件**最低要求一项**，越多越好
 
 #### 报名方式
 
@@ -179,7 +179,7 @@ description: Markdown summary with different options
 
 - 人民日报评论公众号
 
-- 北宋面试公众号
+- 北宋教育公众号
 
 - 个人总结套路
     - 一句话开场
@@ -222,6 +222,8 @@ description: Markdown summary with different options
 4. 本人
     - 与本人面谈时，需要携带好报名时所填写的党员证明/奖励材料/任职证明/院系推荐表
 
+---
+
 ### 公示
 7天公示期
 ### 签约
@@ -233,5 +235,6 @@ description: Markdown summary with different options
 <figcaption class="caption">2023届选调时间表</figcaption>
 <!-- ## 日常分享 -->
 
+---
 
 [1]: https://q3erf.github.io/assets/images/xd_time.png
