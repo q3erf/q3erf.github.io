@@ -122,7 +122,7 @@ description: 选调生整体流程介绍
         - 法律
         - 历史
         - 刷题库
-          - https://www.offcn.com/xingce/2016/1121/4229.html
+        - https://www.offcn.com/xingce/2016/1121/4229.html
     - 言语理解
     - 判断推理
         - 图形推理
