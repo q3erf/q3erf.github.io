@@ -1,0 +1,16 @@
+---
+title: "行测之资料分析"
+layout: post
+date: 2023-06-30 15:50
+image: /assets/images/markdown.jpg
+headerImage: false
+tag:
+- 分享
+- 学习
+- 行测
+category: blog
+author: 冯贤兵
+description: 行测知识点分享
+---
+
+## 行测资料分析
