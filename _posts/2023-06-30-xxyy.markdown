@@ -12,5 +12,3 @@ category: blog
 author: 冯贤兵
 description: 行测知识点分享
 ---
-
-## 行测资料分析
