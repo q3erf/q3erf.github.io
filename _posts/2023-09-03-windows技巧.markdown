@@ -1,0 +1,31 @@
+---
+title: "Windows技巧"
+layout: post
+date: 2023-09-03 22:48
+image: /assets/images/markdown.jpg
+headerImage: false
+tag:
+- 分享
+- 学习
+- windows
+category: blog
+author: 冯贤兵
+description: windows分享
+---
+
+# 终端启动时自动进入环境和文件夹
+
+```bash
+Test-Path $Profile
+# optional if True
+New-Item –Path $Profile –Type File –Force
+notepad $Profile
+
+# typing
+cd /your/path
+conda activate base
+
+# optional 
+Set-ExecutionPolicy RemoteSigned 
+```
+
